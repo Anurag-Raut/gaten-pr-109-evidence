@@ -12,5 +12,8 @@ row state. They were captured from the debug APK built from head `9d49e25`
 `19` is the Settings row at the system's extra-extra-large text size; `20` and
 `21` are the same rows and dialog in the app's Dark theme. `18` is the existing
 Text recognition Help dialog on the same build, for design-language comparison.
+`22` is a short screen recording of the Settings dialog: Download opens the
+confirmation while the row keeps its Download button, and Cancel returns to the
+unchanged row.
 
 Kept outside the Gaten repository so nothing here is committed to it.
