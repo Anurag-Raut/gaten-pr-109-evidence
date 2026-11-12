@@ -16,4 +16,10 @@ Text recognition Help dialog on the same build, for design-language comparison.
 confirmation while the row keeps its Download button, and Cancel returns to the
 unchanged row. `23` is that dialog at the system's extra-extra-large text size.
 
+Screenshots `24`–`29` are the row-driven download round: Settings and onboarding
+no longer show a separate Download button under Enhanced; tapping the row opens
+the shared dialog, and Cancel leaves Standard selected. Captured from head
+`e52f14d` (`app-arm64-v8a-debug.apk`, sha256
+`378bef5a324a89851b4a25e7aebac5585e84e734e49c225b8e94f9a208643075`).
+
 Kept outside the Gaten repository so nothing here is committed to it.
