@@ -14,6 +14,6 @@ row state. They were captured from the debug APK built from head `9d49e25`
 Text recognition Help dialog on the same build, for design-language comparison.
 `22` is a short screen recording of the Settings dialog: Download opens the
 confirmation while the row keeps its Download button, and Cancel returns to the
-unchanged row.
+unchanged row. `23` is that dialog at the system's extra-extra-large text size.
 
 Kept outside the Gaten repository so nothing here is committed to it.
